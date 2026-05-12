@@ -5,3 +5,4 @@
 07.05. DOMINANCE POTVRZENA: 234 minut intenzity (156 % cíle). Týdenní cíl pokořen už ve čtvrtek. Systém stabilizován v Raw módu dřepů
 10.05 – ZÁVĚR 77. TÝDNE: Celkový čas 1:51:43. Nedělní série dřepů dokončena. Systém plně připraven na vstup do 78. týdne nadvlády
 11. 05. – OFENZÍVA SPUŠTĚNA: 56 % týdenního cíle splněno za jeden večer. 84 minut mimo Creatin-mod.
+12. 05. – STABILITA POTVRZENA: <450 dřepů. Týdenní čas 2:33:44. Systém po včerejším rekordu vykazuje 100% spolehlivost
